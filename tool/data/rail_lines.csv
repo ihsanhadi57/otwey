@@ -1,0 +1,10 @@
+line_key,line_name,line_short,mode,headway_min,speed_kmh,fare_base,fare_base_km,fare_per_km,fare_max,source
+mrt_ns,MRT Jakarta Lin Utara-Selatan,MRT,mrt,8,32,3000,1,700,14000,"Urutan stasiun: jakartamrt.co.id. Headway, kecepatan, tarif: estimasi (Lebak Bulus-Bundaran HI ±30 mnt, Rp14.000)"
+lrt_jbd_bekasi,LRT Jabodebek Lin Bekasi,LRT,lrt,12,25,5000,1,700,20000,"Urutan: lrtjabodebek.kai.id. Tarif Rp5.000 km pertama + Rp700/km maks Rp20.000. Dukuh Atas-Halim ±27 mnt"
+lrt_jbd_cibubur,LRT Jabodebek Lin Cibubur,LRT,lrt,12,25,5000,1,700,20000,"Urutan: lrtjabodebek.kai.id. Tarif sama Lin Bekasi"
+lrt_jkt,LRT Jakarta,LRT Jkt,lrt,10,25,5000,0,0,5000,"Fase 1A Velodrome-Kelapa Gading, tarif datar Rp5.000. Headway estimasi"
+krl_bogor,KRL Lin Bogor,KRL,krl,8,30,3000,25,100,,"Urutan: commuterline.id. Tarif Rp3.000 25 km pertama + Rp1.000 per 10 km. Headway estimasi"
+krl_loop,KRL Lin Cikarang (lingkar),KRL,krl,15,30,3000,25,100,,"Urutan: commuterline.id. Segmen lingkar dalam kota"
+krl_rangkas,KRL Lin Rangkasbitung,KRL,krl,15,30,3000,25,100,,"Segmen Tanah Abang-Pondok Ranji"
+krl_tangerang,KRL Lin Tangerang,KRL,krl,15,30,3000,25,100,,"Segmen Duri-Kalideres"
+krl_priok,KRL Lin Tanjung Priok,KRL,krl,20,30,3000,25,100,,"Jakarta Kota-Tanjung Priok"

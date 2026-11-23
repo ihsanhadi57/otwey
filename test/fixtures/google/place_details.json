@@ -1,0 +1,17 @@
+{
+  "id": "ChIJexample123",
+  "displayName": { "text": "Gedung Joang 45", "languageCode": "id" },
+  "rating": 4.6,
+  "userRatingCount": 3120,
+  "businessStatus": "OPERATIONAL",
+  "googleMapsUri": "https://maps.google.com/?cid=1",
+  "currentOpeningHours": { "openNow": true },
+  "regularOpeningHours": {
+    "periods": [
+      { "open": { "day": 2, "hour": 9, "minute": 0 }, "close": { "day": 2, "hour": 15, "minute": 0 } },
+      { "open": { "day": 0, "hour": 9, "minute": 30 }, "close": { "day": 0, "hour": 15, "minute": 0 } },
+      { "open": { "day": 5, "hour": 18, "minute": 0 }, "close": { "day": 6, "hour": 2, "minute": 0 } }
+    ],
+    "weekdayDescriptions": ["Senin: Tutup", "Selasa: 09.00–15.00"]
+  }
+}

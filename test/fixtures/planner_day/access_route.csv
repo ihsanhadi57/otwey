@@ -1,0 +1,5 @@
+route_key,station_code,direction,step_seq,mode,service,corridor,from_stop,to_stop,minutes,fare,operating_hours,source,anchor_lat,anchor_lng
+cikoko_halim,HLM,to_station,1,walk,,,Titik user,Stasiun LRT Cikoko,6,0,,fixture uji,-6.2430,106.8590
+cikoko_halim,HLM,to_station,2,commuter_line,LRT Jabodebek,Bekasi Line,Cikoko,Halim,8,5000,05.00-23.00,fixture uji,-6.2430,106.8590
+halim_cikoko,HLM,from_station,1,commuter_line,LRT Jabodebek,Bekasi Line,Halim,Cikoko,8,5000,05.00-23.00,fixture uji,-6.2430,106.8590
+halim_cikoko,HLM,from_station,2,walk,,,Stasiun LRT Cikoko,Titik user,6,0,,fixture uji,-6.2430,106.8590

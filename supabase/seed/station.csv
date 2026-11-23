@@ -1,0 +1,7 @@
+code,name,city,type,lat,lng,source
+HLM,Stasiun Halim,Jakarta,whoosh,-6.2456352,106.8844875,osm node/5851224882
+KRW,Stasiun Karawang,Karawang,whoosh,-6.3644378,107.2193565,osm way/917251096
+PDL,Stasiun Padalarang,Bandung,whoosh,-6.8422655,107.4969093,osm node/10693460259
+TGL,Stasiun Tegalluar Summarecon,Bandung,whoosh,-6.9638120,107.7146978,osm node/5851210256
+BD,Stasiun Bandung,Bandung,hub,-6.9142580,107.6021243,osm node/10693460294
+CMI,Stasiun Cimahi,Cimahi,feeder,-6.8857909,107.5361568,osm way/257233123

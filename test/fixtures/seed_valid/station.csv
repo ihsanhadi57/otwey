@@ -1,0 +1,4 @@
+code,name,city,type,lat,lng,source
+HLM,Stasiun Halim,Jakarta,whoosh,-6.2155,106.8785,fixture uji
+PDL,Stasiun Padalarang,Bandung,whoosh,-6.8565,107.4863,fixture uji
+BD,Stasiun Bandung,Bandung,hub,-6.9147,107.6098,fixture uji

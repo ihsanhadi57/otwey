@@ -1,0 +1,8 @@
+key,name,city,area,address,lat,lng,description,price_range,visit_minutes,categories,attributes,source,source_ref,is_verified
+braga_jajan,Jajan di Jalan Braga,Bandung,Braga,"Jl. Braga, Sumur Bandung",-6.9175,107.6091,"Jalan art deco dengan cemilan kaki lima.",murah,50,jajanan,spot_foto;budget_murah,osm,node/201,false
+timbel,Nasi timbel Asia Afrika,Bandung,Asia Afrika,"Jl. Asia Afrika",-6.9210,107.6070,"Nasi timbel lengkap dengan sambal.",murah,55,makanan_berat,halal;budget_murah,osm,node/202,false
+oleh,Oleh oleh dekat stasiun,Bandung,Stasiun Bandung,"Jl. Stasiun Timur",-6.9150,107.6080,"Toko oleh oleh khas Bandung.",murah,30,oleh_oleh,budget_murah,osm,node/203,false
+kopi_dago,Kopi incaran Dago,Bandung,Dago,"Jl. Ir. H. Djuanda",-6.8900,107.6130,"Kafe dengan kopi single origin.",murah,45,kopi_kafe,indoor;budget_murah,osm,node/204,false
+tutup_pagi,Jajan pagi saja,Bandung,Braga,"Jl. Braga Utara",-6.9160,107.6100,"Hanya buka pagi hari.",murah,40,jajanan,budget_murah,osm,node/205,false
+fatahillah,Museum Fatahillah,Jakarta,Kota Tua,"Jl. Taman Fatahillah",-6.1352,106.8133,"Museum sejarah di gedung balai kota lama.",murah,90,sejarah_budaya,indoor,osm,node/206,false
+blokm,Makan siang Kota Tua,Jakarta,Kota Tua,"Jl. Pintu Besar",-6.1400,106.8100,"Rumah makan dekat museum.",murah,60,makanan_berat,halal;budget_murah,osm,node/207,false

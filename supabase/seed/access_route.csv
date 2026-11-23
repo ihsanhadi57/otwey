@@ -1,0 +1,3 @@
+route_key,route_name,station_code,direction,step_seq,mode,service,corridor,from_stop,to_stop,minutes,fare,operating_hours,source,anchor_lat,anchor_lng
+dukuh_atas_halim,LRT Jabodebek Dukuh Atas - Halim,HLM,to_station,1,commuter_line,LRT Jabodebek,Bekasi Line,Dukuh Atas BNI,Halim,27,13400,"Dukuh Atas hari kerja 06:05-23:02, akhir pekan 06:21-22:39. Tarif puncak 13400, luar puncak 10000.",https://lrtjabodebek.kai.id/informasi-tarif,-6.2009,106.8227
+halim_dukuh_atas,LRT Jabodebek Halim - Dukuh Atas,HLM,from_station,1,commuter_line,LRT Jabodebek,Bekasi Line,Halim,Dukuh Atas BNI,27,13400,"Halim hari kerja 05:34-23:23, akhir pekan 05:48-23:00. Tarif puncak 13400, luar puncak 10000.",https://lrtjabodebek.kai.id/informasi-tarif,-6.2009,106.8227

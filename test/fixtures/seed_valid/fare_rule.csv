@@ -1,0 +1,2 @@
+code,mode,city,base_fare,per_km_fare,min_fare,source
+motor,two_wheeler,,10000,2500,10000,fixture uji

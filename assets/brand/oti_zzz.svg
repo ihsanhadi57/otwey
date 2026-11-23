@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 220">
+<ellipse cx="104" cy="207" rx="58" ry="7" fill="#1B1F3B" opacity="0.12"/>
+<rect x="150" y="84" width="42" height="80" rx="18" fill="#3DAA6E"/>
+<rect x="172" y="112" width="16" height="32" rx="7" fill="#2E9E68"/>
+<rect x="80" y="166" width="15" height="28" rx="7.5" fill="#1B1F3B"/>
+<rect x="110" y="166" width="15" height="28" rx="7.5" fill="#1B1F3B"/>
+<rect x="70" y="186" width="32" height="17" rx="8.5" fill="#4CC38A"/>
+<rect x="106" y="186" width="32" height="17" rx="8.5" fill="#4CC38A"/>
+<ellipse cx="100" cy="116" rx="66" ry="62" fill="#EE5C20"/>
+<ellipse cx="94" cy="110" rx="60" ry="56" fill="#FF6B2C"/>
+<ellipse cx="68" cy="80" rx="12" ry="7" fill="#FFFFFF" opacity="0.22" transform="rotate(-30 68 80)"/>
+<path d="M38 128 Q100 172 164 134" fill="none" stroke="#2E9E68" stroke-width="9" stroke-linecap="round"/>
+<ellipse cx="66" cy="128" rx="10" ry="6.5" fill="#FFA48A"/>
+<ellipse cx="138" cy="128" rx="10" ry="6.5" fill="#FFA48A"/>
+<g transform="rotate(-3 100 74)">
+<path d="M50 78 C50 42 70 30 100 30 C130 30 150 42 150 78 Z" fill="#1B1F3B"/>
+<path d="M100 32 V44" fill="none" stroke="#343A6B" stroke-width="2.5" stroke-linecap="round"/>
+<ellipse cx="78" cy="46" rx="10" ry="5" fill="#FFFFFF" opacity="0.12" transform="rotate(-25 78 46)"/>
+<circle cx="100" cy="56" r="6.5" fill="#FFC83D"/>
+<rect x="46" y="70" width="108" height="18" rx="9" fill="#343A6B"/>
+</g>
+<path d="M40 118 Q28 94 44 74" fill="none" stroke="#F7652A" stroke-width="20" stroke-linecap="round"/>
+<ellipse cx="48" cy="70" rx="14" ry="12" fill="#F7652A"/>
+<path d="M71 108 Q80 116 89 108" fill="none" stroke="#1B1F3B" stroke-width="5" stroke-linecap="round"/>
+<path d="M113 108 Q122 116 131 108" fill="none" stroke="#1B1F3B" stroke-width="5" stroke-linecap="round"/>
+<path d="M96 134 Q104 141 112 134" fill="none" stroke="#1B1F3B" stroke-width="4.5" stroke-linecap="round"/>
+<path d="M162.5 46.22Q161.61 46.22 160.97 45.57Q160.34 44.92 160.34 44.03Q160.34 43.6 160.49 43.2Q160.65 42.81 160.98 42.5L165.59 38.37H163.02Q162.5 38.37 161.99 38.27Q161.49 38.18 161.15 37.72Q160.82 37.26 160.82 36.18Q160.82 35.1 161.15 34.66Q161.49 34.22 161.99 34.12Q162.5 34.02 163.02 34.02H170.3Q171.18 34.02 171.82 34.65Q172.46 35.27 172.46 36.16Q172.46 36.62 172.29 37.04Q172.12 37.46 171.83 37.72L167.34 41.85H170.58Q171.14 41.85 171.63 41.94Q172.12 42.04 172.43 42.51Q172.74 42.98 172.74 44.06Q172.74 45.14 172.42 45.59Q172.1 46.05 171.6 46.13Q171.11 46.22 170.56 46.22Z" fill="#1B1F3B"/>
+<path d="M179.87 28.16Q179.21 28.16 178.73 27.68Q178.25 27.19 178.25 26.52Q178.25 26.2 178.37 25.9Q178.49 25.61 178.74 25.37L182.19 22.28H180.27Q179.87 22.28 179.49 22.2Q179.12 22.13 178.86 21.79Q178.61 21.45 178.61 20.64Q178.61 19.83 178.86 19.5Q179.12 19.16 179.49 19.09Q179.87 19.02 180.27 19.02H185.72Q186.39 19.02 186.87 19.49Q187.34 19.95 187.34 20.62Q187.34 20.96 187.22 21.28Q187.09 21.59 186.87 21.79L183.51 24.89H185.94Q186.35 24.89 186.72 24.96Q187.09 25.03 187.32 25.38Q187.56 25.73 187.56 26.54Q187.56 27.35 187.31 27.69Q187.07 28.04 186.7 28.1Q186.33 28.16 185.92 28.16Z" fill="#1B1F3B"/>
+</svg>

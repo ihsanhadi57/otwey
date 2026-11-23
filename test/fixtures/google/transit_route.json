@@ -1,0 +1,20 @@
+{
+  "minutes": 41,
+  "distanceMeters": 9120,
+  "steps": [
+    { "mode": "walk", "minutes": 6, "distanceMeters": 430 },
+    {
+      "mode": "subway", "minutes": 18, "distanceMeters": 7800,
+      "line": "MRT Jakarta Lin Utara-Selatan", "lineShort": "M", "color": "#0057a8",
+      "headsign": "Bundaran HI", "from": "Blok M BCA", "to": "Bundaran HI Bank DKI",
+      "departAt": "2026-11-25T01:07:00Z", "arriveAt": "2026-11-25T01:25:00Z", "stops": 9
+    },
+    {
+      "mode": "bus", "minutes": 9, "distanceMeters": 600,
+      "line": "Koridor 1", "lineShort": "1",
+      "from": "Bundaran HI", "to": "Sarinah",
+      "departAt": "2026-11-25T08:30:00+07:00", "arriveAt": "2026-11-25T08:39:00+07:00", "stops": 2
+    },
+    { "mode": "walk", "minutes": 8, "distanceMeters": 290 }
+  ]
+}

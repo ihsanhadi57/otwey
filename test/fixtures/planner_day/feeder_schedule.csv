@@ -1,0 +1,5 @@
+route_name,mode,from_station,to_station,depart,arrive,fare,free_for_whoosh,connects_train_no,source
+KA Feeder Padalarang - Bandung,ka_feeder,PDL,BD,10:10,10:29,0,true,G1001,fixture uji
+KA Feeder Bandung - Padalarang siang,ka_feeder,BD,PDL,11:10,11:29,0,true,G7004,fixture uji
+KA Feeder Bandung - Padalarang sore,ka_feeder,BD,PDL,16:10,16:29,0,true,G7003,fixture uji
+KA Feeder Bandung - Padalarang malam,ka_feeder,BD,PDL,17:40,17:59,0,true,G7001,fixture uji

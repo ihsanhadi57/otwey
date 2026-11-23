@@ -1,0 +1,3 @@
+key,name,city,area,address,lat,lng,description,price_range,visit_minutes,categories,attributes,source,source_ref,is_verified
+braga_jajan,Jajan di Jalan Braga,Bandung,Braga,"Jl. Braga, Sumur Bandung",-6.9175,107.6091,"Jalan art deco dengan cemilan kaki lima.",murah,50,jajanan,spot_foto;budget_murah,osm,node/101,false
+fatahillah,Museum Fatahillah,Jakarta,Kota Tua,"Jl. Taman Fatahillah",-6.1352,106.8133,"Museum sejarah di gedung balai kota lama.",murah,90,sejarah_budaya,indoor,osm,node/102,false

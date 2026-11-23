@@ -1,0 +1,17 @@
+train_no,direction,station_code,stop_seq,arrive,depart,valid_from,valid_to,source
+G1001,jakarta_to_bandung,HLM,1,,09:25,2026-11-01,,fixture uji bukan jadwal resmi
+G1001,jakarta_to_bandung,PDL,2,10:00,,2026-11-01,,fixture uji bukan jadwal resmi
+G1002,jakarta_to_bandung,HLM,1,,16:25,2026-11-01,,fixture uji bukan jadwal resmi
+G1002,jakarta_to_bandung,PDL,2,17:00,,2026-11-01,,fixture uji bukan jadwal resmi
+G1003,jakarta_to_bandung,HLM,1,,17:25,2026-11-01,,fixture uji bukan jadwal resmi
+G1003,jakarta_to_bandung,PDL,2,18:00,,2026-11-01,,fixture uji bukan jadwal resmi
+G7005,bandung_to_jakarta,PDL,1,,08:30,2026-11-01,,fixture uji bukan jadwal resmi
+G7005,bandung_to_jakarta,HLM,2,09:05,,2026-11-01,,fixture uji bukan jadwal resmi
+G7004,bandung_to_jakarta,PDL,1,,12:25,2026-11-01,,fixture uji bukan jadwal resmi
+G7004,bandung_to_jakarta,HLM,2,13:00,,2026-11-01,,fixture uji bukan jadwal resmi
+G7002,bandung_to_jakarta,PDL,1,,16:25,2026-11-01,,fixture uji bukan jadwal resmi
+G7002,bandung_to_jakarta,HLM,2,17:00,,2026-11-01,,fixture uji bukan jadwal resmi
+G7003,bandung_to_jakarta,PDL,1,,17:25,2026-11-01,,fixture uji bukan jadwal resmi
+G7003,bandung_to_jakarta,HLM,2,18:00,,2026-11-01,,fixture uji bukan jadwal resmi
+G7001,bandung_to_jakarta,PDL,1,,18:25,2026-11-01,,fixture uji bukan jadwal resmi
+G7001,bandung_to_jakarta,HLM,2,19:00,,2026-11-01,,fixture uji bukan jadwal resmi
